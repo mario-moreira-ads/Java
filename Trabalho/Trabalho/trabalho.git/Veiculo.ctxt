@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=EhIdoso
+comment1.target=void\ setEhIdoso(int)
+comment10.params=
+comment10.target=int\ getCapacidadeIdoso()
+comment11.params=
+comment11.target=java.util.ArrayList\ getItineraioList()
+comment12.params=i
+comment12.target=void\ addItineraio(Itinerario)
+comment2.params=
+comment2.target=int\ getEhIdoso()
+comment3.params=NumeroPassagem
+comment3.target=void\ setNumeroPassagem(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNumeroPassagem()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTipo()
+comment7.params=capacidade
+comment7.target=void\ setCapacidade(int)
+comment8.params=
+comment8.target=int\ getCapacidade()
+comment9.params=capacidadeIdoso
+comment9.target=void\ setCapacidadeIdoso(int)
+numComments=13
