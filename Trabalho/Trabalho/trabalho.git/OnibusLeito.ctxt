@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=OnibusLeito
-comment1.params=NumeroPassagem\ tipo\ Capacidade\ EhIdoso
-comment1.target=OnibusLeito(java.lang.String,\ java.lang.String,\ int,\ int)
-numComments=2
