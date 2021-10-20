@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Poupanca
+comment1.params=
+comment1.target=Poupanca()
+comment2.params=
+comment2.target=void\ rendimento()
+comment3.params=
+comment3.target=double\ getTaxaJuros()
+comment4.params=taxaJuros
+comment4.target=void\ setTaxaJuros(double)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=void\ realizaOperacoes(Cliente)
+comment3.params=c
+comment3.target=void\ listaContas(Cliente)
+comment4.params=
+comment4.target=java.lang.String\ escolheOperacao()
+comment5.params=c
+comment5.target=void\ imprimeContas(Cliente)
+comment6.params=ler
+comment6.target=Conta\ cadastrarConta(java.util.Scanner)
+comment7.params=
+comment7.target=int\ escolhaMenu()
+comment8.params=c
+comment8.target=void\ inicializarCliente(Cliente)
+numComments=9
